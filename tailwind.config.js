@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{ink:'#050505',coal:'#0D0D0D',gold:'#D4A017',champagne:'#F2D27A',darkgold:'#8C6515',warm:'#B8B2A5'},fontFamily:{display:['Oswald','"Bebas Neue"','Impact','"Arial Narrow Bold"','sans-serif'],body:['Georgia','"Times New Roman"','serif']}}},plugins:[]}

@@ -1,0 +1,9 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html,body{background:#050505;color:#fff;margin:0;overflow-x:hidden;-webkit-tap-highlight-color:transparent}
+body{font-family:Georgia,'Times New Roman',serif;background:radial-gradient(ellipse 80% 40% at 100% 0%,rgba(212,160,23,.22),transparent 70%),#050505;min-height:100vh;min-height:100dvh}
+.gold-text{background:linear-gradient(180deg,#F2D27A,#D4A017 55%,#8C6515);-webkit-background-clip:text;background-clip:text;color:transparent}
+.gold-btn{background:linear-gradient(180deg,#F2D27A,#D4A017 55%,#8C6515);color:#050505;box-shadow:0 0 24px rgba(212,160,23,.25)}
+.pop{animation:pop .35s ease-out}@keyframes pop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.shake{animation:shake .35s}@keyframes shake{25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+.glow{animation:glow 2s ease-in-out infinite}@keyframes glow{50%{filter:drop-shadow(0 0 18px rgba(242,210,122,.8))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
