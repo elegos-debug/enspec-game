@@ -1,1302 +1,202 @@
 [
-{
-"id": "ag01",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which studio animated the first three seasons of 'Attack on Titan'?",
-"options": [
-"MAPPA",
-"Bones",
-"Wit Studio",
-"Madhouse"
-],
-"answer": 2
-},
-{
-"id": "ag02",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "In what year was the Famicom released in Japan?",
-"options": [
-"1985",
-"1981",
-"1983",
-"1987"
-],
-"answer": 2
-},
-{
-"id": "ag03",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which company developed 'Chrono Trigger' (1995)?",
-"options": [
-"Capcom",
-"Konami",
-"Square",
-"Enix"
-],
-"answer": 2
-},
-{
-"id": "ag04",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "Who composed the music of the original 'The Legend of Zelda' (1986)?",
-"options": [
-"Hip Tanaka",
-"Nobuo Uematsu",
-"Koji Kondo",
-"Yasunori Mitsuda"
-],
-"answer": 2
-},
-{
-"id": "ag05",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "In 'Neon Genesis Evangelion', what is the vast underground cavern beneath Tokyo-3 that houses NERV headquarters called?",
-"options": [
-"The Abyss",
-"The Geofront",
-"The Terminal Pit",
-"The Dark Zone"
-],
-"answer": 1
-},
-{
-"id": "ag06",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which anime features the 'Nen' energy system?",
-"options": [
-"One Piece",
-"Hunter x Hunter",
-"Bleach",
-"YuYu Hakusho"
-],
-"answer": 1
-},
-{
-"id": "ag07",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Who directed the 1988 animated film 'Akira'?",
-"options": [
-"Hayao Miyazaki",
-"Katsuhiro Otomo",
-"Satoshi Kon",
-"Mamoru Oshii"
-],
-"answer": 1
-},
-{
-"id": "ag08",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "The Konami Code made its debut in the home port of which 1986 game?",
-"options": [
-"Contra",
-"Gradius",
-"Metal Gear",
-"Castlevania"
-],
-"answer": 1
-},
-{
-"id": "ag09",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "Which pair of games launched the Pokémon series in Japan in 1996?",
-"options": [
-"Yellow",
-"Red and Green",
-"Gold and Silver",
-"Red and Blue"
-],
-"answer": 1
-},
-{
-"id": "ag10",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "What was the first film produced by Studio Ghibli after its founding?",
-"options": [
-"Castle in the Sky",
-"Nausicaä of the Valley of the Wind",
-"Grave of the Fireflies",
-"My Neighbor Totoro"
-],
-"answer": 0
-},
-{
-"id": "mh01",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "At which 1086 battle did the Almoravids defeat Alfonso VI of Castile?",
-"options": [
-"Las Navas de Tolosa",
-"Covadonga",
-"Sagrajas (Zallaqa)",
-"Alarcos"
-],
-"answer": 2
-},
-{
-"id": "mh02",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which 1212 battle was a decisive defeat for the Almohads?",
-"options": [
-"Ksar el-Kebir",
-"Isly",
-"Alarcos",
-"Las Navas de Tolosa"
-],
-"answer": 3
-},
-{
-"id": "mh03",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Which Portuguese king died at the Battle of the Three Kings (1578)?",
-"options": [
-"Sebastian",
-"Manuel I",
-"Afonso V",
-"John II"
-],
-"answer": 0
-},
-{
-"id": "mh04",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "In which year was the Treaty of Fez, establishing the French protectorate, signed?",
-"options": [
-"1930",
-"1920",
-"1912",
-"1906"
-],
-"answer": 2
-},
-{
-"id": "mh05",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Who founded the Almohad movement?",
-"options": [
-"Abu Yusuf Ya'qub",
-"Abd al-Mu'min",
-"Ibn Tumart",
-"Ya'qub al-Mansur"
-],
-"answer": 2
-},
-{
-"id": "mh06",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which Alaouite sultan (r. 1672–1727) made Meknes his capital?",
-"options": [
-"Mohammed ben Abdallah",
-"Moulay Ismail",
-"Moulay Hassan I",
-"Moulay Rachid"
-],
-"answer": 1
-},
-{
-"id": "mh07",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Morocco fought which country at the Battle of Isly in 1844?",
-"options": [
-"France",
-"Britain",
-"Spain",
-"Portugal"
-],
-"answer": 0
-},
-{
-"id": "mh08",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "In which city was Ibn Battuta born in 1304?",
-"options": [
-"Marrakech",
-"Tangier",
-"Salé",
-"Fez"
-],
-"answer": 1
-},
-{
-"id": "mh09",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Who founded the University of al-Qarawiyyin in Fez in 859?",
-"options": [
-"Idris II",
-"Fatima al-Fihri",
-"Ibn Khaldun",
-"Zaynab an-Nafzawiyya"
-],
-"answer": 1
-},
-{
-"id": "mh10",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Who founded the Idrisid dynasty in Morocco?",
-"options": [
-"Yusuf ibn Tashfin",
-"Idris I",
-"Abd al-Mu'min",
-"Abu al-Hasan"
-],
-"answer": 1
-},
-{
-"id": "gk01",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Which element has atomic number 74?",
-"options": [
-"Tungsten",
-"Osmium",
-"Platinum",
-"Rhenium"
-],
-"answer": 0
-},
-{
-"id": "gk02",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who proved Fermat's Last Theorem in 1994–95?",
-"options": [
-"Andrew Wiles",
-"John Nash",
-"Terence Tao",
-"Grigori Perelman"
-],
-"answer": 0
-},
-{
-"id": "gk03",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "What is the longest river in Europe?",
-"options": [
-"Volga",
-"Danube",
-"Rhine",
-"Dnieper"
-],
-"answer": 0
-},
-{
-"id": "gk04",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "In networking, what does 'TCP' stand for?",
-"options": [
-"Terminal Connection Protocol",
-"Transmission Control Protocol",
-"Transfer Control Process",
-"Transport Channel Package"
-],
-"answer": 1
-},
-{
-"id": "gk05",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "What is the smallest prime number greater than 90?",
-"options": [
-"99",
-"93",
-"91",
-"97"
-],
-"answer": 3
-},
-{
-"id": "gk06",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "The Peace of Westphalia (1648) ended which conflict?",
-"options": [
-"Seven Years' War",
-"Hundred Years' War",
-"Thirty Years' War",
-"War of the Roses"
-],
-"answer": 2
-},
-{
-"id": "gk07",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Which moon of Saturn has a thick nitrogen-rich atmosphere?",
-"options": [
-"Mimas",
-"Rhea",
-"Enceladus",
-"Titan"
-],
-"answer": 3
-},
-{
-"id": "gk08",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who wrote 'The General Theory of Employment, Interest and Money' (1936)?",
-"options": [
-"Friedrich Hayek",
-"John Maynard Keynes",
-"Paul Samuelson",
-"Milton Friedman"
-],
-"answer": 1
-},
-{
-"id": "gk09",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Which computer scientist developed the first compiler, the A-0 system, in 1952?",
-"options": [
-"Ada Lovelace",
-"Alan Turing",
-"Margaret Hamilton",
-"Grace Hopper"
-],
-"answer": 3
-},
-{
-"id": "gk10",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "What is the SI unit of magnetic flux density?",
-"options": [
-"Tesla",
-"Farad",
-"Weber",
-"Henry"
-],
-"answer": 0
-},
-{
-"id": "sp01",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which country won the first FIFA World Cup in 1930?",
-"options": [
-"Uruguay",
-"Brazil",
-"Italy",
-"Argentina"
-],
-"answer": 0
-},
-{
-"id": "sp02",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which tennis player won the calendar-year Grand Slam in 1969?",
-"options": [
-"Ken Rosewall",
-"Rod Laver",
-"John Newcombe",
-"Björn Borg"
-],
-"answer": 1
-},
-{
-"id": "sp03",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which African nation became the first to reach a men's World Cup semi-final, in 2022?",
-"options": [
-"Ghana",
-"Cameroon",
-"Morocco",
-"Senegal"
-],
-"answer": 2
-},
-{
-"id": "sp04",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "What is the exact length of a marathon?",
-"options": [
-"41.195 km",
-"42.195 km",
-"43.195 km",
-"42.000 km"
-],
-"answer": 1
-},
-{
-"id": "sp05",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Who won the Ballon d'Or in 2018?",
-"options": [
-"Luka Modrić",
-"Antoine Griezmann",
-"Cristiano Ronaldo",
-"Kylian Mbappé"
-],
-"answer": 0
-},
-{
-"id": "sp06",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Which player scored a record 13 goals at a single men's World Cup (1958)?",
-"options": [
-"Eusébio",
-"Sándor Kocsis",
-"Just Fontaine",
-"Gerd Müller"
-],
-"answer": 2
-},
-{
-"id": "sp07",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Who won both the 1500 m and 5000 m at the 2004 Athens Olympics?",
-"options": [
-"Hicham El Guerrouj",
-"Saïd Aouita",
-"Kenenisa Bekele",
-"Bernard Lagat"
-],
-"answer": 0
-},
-{
-"id": "sp08",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which team won Euro 2004?",
-"options": [
-"Netherlands",
-"Greece",
-"Czech Republic",
-"Portugal"
-],
-"answer": 1
-},
-{
-"id": "sp09",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which NBA player scored 100 points in a single game in 1962?",
-"options": [
-"Elgin Baylor",
-"Oscar Robertson",
-"Wilt Chamberlain",
-"Bill Russell"
-],
-"answer": 2
-},
-{
-"id": "sp10",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Which city hosted the 1936 Summer Olympics?",
-"options": [
-"Los Angeles",
-"Berlin",
-"London",
-"Amsterdam"
-],
-"answer": 1
-},
-{
-"id": "ag11",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Who wrote the manga 'Berserk'?",
-"options": [
-"Yoshihiro Togashi",
-"Naoki Urasawa",
-"Kentaro Miura",
-"Tite Kubo"
-],
-"answer": 2
-},
-{
-"id": "ag12",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "Who composed the soundtrack of 'Cowboy Bebop'?",
-"options": [
-"Joe Hisaishi",
-"Hiroyuki Sawano",
-"Kenji Kawai",
-"Yoko Kanno"
-],
-"answer": 3
-},
-{
-"id": "ag13",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "What was Pac-Man's original Japanese name?",
-"options": [
-"Munch-Man",
-"Puck-Man",
-"Dot-Man",
-"Pak-Man"
-],
-"answer": 1
-},
-{
-"id": "ag14",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which was Sega's last home video game console?",
-"options": [
-"Master System",
-"Genesis",
-"Dreamcast",
-"Saturn"
-],
-"answer": 2
-},
-{
-"id": "ag15",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "What is Okabe Rintaro's self-proclaimed alias in 'Steins;Gate'?",
-"options": [
-"Rintaro the Great",
-"Hououin Kyouma",
-"Kyoma Tenma",
-"Zero Okabe"
-],
-"answer": 1
-},
-{
-"id": "ag16",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which studio animated 'Demon Slayer: Kimetsu no Yaiba'?",
-"options": [
-"Kyoto Animation",
-"Trigger",
-"ufotable",
-"MAPPA"
-],
-"answer": 2
-},
-{
-"id": "ag17",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Who created the 'Metal Gear' series?",
-"options": [
-"Shinji Mikami",
-"Tetsuya Nomura",
-"Yu Suzuki",
-"Hideo Kojima"
-],
-"answer": 3
-},
-{
-"id": "ag18",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "In what year was the original PlayStation released in Japan?",
-"options": [
-"1998",
-"1994",
-"1996",
-"1992"
-],
-"answer": 1
-},
-{
-"id": "ag19",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "What is the name of Jotaro Kujo's Stand in 'JoJo's Bizarre Adventure: Stardust Crusaders'?",
-"options": [
-"The World",
-"Crazy Diamond",
-"Star Platinum",
-"Gold Experience"
-],
-"answer": 2
-},
-{
-"id": "ag20",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which manga series holds the Guinness record for best-selling comic series by a single author?",
-"options": [
-"Dragon Ball",
-"Detective Conan",
-"Naruto",
-"One Piece"
-],
-"answer": 3
-},
-{
-"id": "ag21",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "Which anime film won the Academy Award for Best Animated Feature in 2003?",
-"options": [
-"Your Name",
-"Spirited Away",
-"Howl's Moving Castle",
-"Princess Mononoke"
-],
-"answer": 1
-},
-{
-"id": "ag22",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Who directed the original 'Dark Souls' (2011)?",
-"options": [
-"Keiji Inafune",
-"Hideo Kojima",
-"Tomonobu Itagaki",
-"Hidetaka Miyazaki"
-],
-"answer": 3
-},
-{
-"id": "ag23",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "In what year did Alexey Pajitnov create 'Tetris'?",
-"options": [
-"1991",
-"1988",
-"1984",
-"1980"
-],
-"answer": 2
-},
-{
-"id": "ag24",
-"category": "Anime & Gaming",
-"difficulty": "VERY HARD",
-"question": "Who is the First Hokage in 'Naruto'?",
-"options": [
-"Tobirama Senju",
-"Minato Namikaze",
-"Hashirama Senju",
-"Hiruzen Sarutobi"
-],
-"answer": 2
-},
-{
-"id": "ag25",
-"category": "Anime & Gaming",
-"difficulty": "HARD",
-"question": "Which programmer created the original 'Sonic the Hedgehog' game engine at Sonic Team?",
-"options": [
-"Hiroshi Yamauchi",
-"Gunpei Yokoi",
-"Satoru Iwata",
-"Yuji Naka"
-],
-"answer": 3
-},
-{
-"id": "mh11",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which dynasty built the Bou Inania Madrasa in Fez?",
-"options": [
-"Marinids",
-"Saadians",
-"Wattasids",
-"Idrisids"
-],
-"answer": 0
-},
-{
-"id": "mh12",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Which Saadian sultan, nicknamed 'al-Dhahabi', took power after the Battle of the Three Kings?",
-"options": [
-"Ahmad al-Mansur",
-"Zidan al-Nasir",
-"Abd al-Malik",
-"Mohammed al-Shaykh"
-],
-"answer": 0
-},
-{
-"id": "mh13",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "In which year did Morocco regain independence from France?",
-"options": [
-"1961",
-"1956",
-"1955",
-"1957"
-],
-"answer": 1
-},
-{
-"id": "mh14",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which sultan was exiled to Madagascar in 1953?",
-"options": [
-"Moulay Hafid",
-"Mohammed V",
-"Moulay Youssef",
-"Hassan II"
-],
-"answer": 1
-},
-{
-"id": "mh15",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "The Battle of Annual (1921) took place during which conflict?",
-"options": [
-"The Green March",
-"The Ifni War",
-"The Sand War",
-"The Rif War"
-],
-"answer": 3
-},
-{
-"id": "mh16",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which Almoravid ruler (r. 1061–1106) unified Morocco and conquered much of al-Andalus?",
-"options": [
-"Yusuf ibn Tashfin",
-"Abdallah ibn Yasin",
-"Ali ibn Yusuf",
-"Ibrahim ibn Tashfin"
-],
-"answer": 0
-},
-{
-"id": "mh17",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which Almohad caliph commissioned the Hassan Tower in Rabat?",
-"options": [
-"Ibn Tumart",
-"Ya'qub al-Mansur",
-"Muhammad al-Nasir",
-"Abd al-Mu'min"
-],
-"answer": 1
-},
-{
-"id": "mh18",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Which 1906 conference addressed rival European claims over Morocco?",
-"options": [
-"Vienna",
-"Berlin",
-"Madrid",
-"Algeciras"
-],
-"answer": 3
-},
-{
-"id": "mh19",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which sultan signed the Treaty of Fez in 1912?",
-"options": [
-"Moulay Youssef",
-"Moulay Abd al-Hafid",
-"Hassan I",
-"Abd al-Aziz"
-],
-"answer": 1
-},
-{
-"id": "mh20",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "In which year did the Green March take place?",
-"options": [
-"1973",
-"1975",
-"1971",
-"1979"
-],
-"answer": 1
-},
-{
-"id": "mh21",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Which city was the capital of the Saadian dynasty?",
-"options": [
-"Rabat",
-"Fez",
-"Meknes",
-"Marrakech"
-],
-"answer": 3
-},
-{
-"id": "mh22",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which palace in Marrakech did Ahmad al-Mansur build after the Battle of the Three Kings?",
-"options": [
-"El Badi Palace",
-"Bahia Palace",
-"Dar Batha",
-"Dar el-Makhzen"
-],
-"answer": 0
-},
-{
-"id": "mh23",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "Which Moroccan sultan was among the first rulers to recognize American independence?",
-"options": [
-"Mohammed ben Abdallah",
-"Moulay Ismail",
-"Moulay Sulayman",
-"Hassan I"
-],
-"answer": 0
-},
-{
-"id": "mh24",
-"category": "Moroccan History",
-"difficulty": "VERY HARD",
-"question": "Who led the Republic of the Rif in the 1920s?",
-"options": [
-"Ahmed Balafrej",
-"Allal al-Fassi",
-"Mohammed Hassan Ouazzani",
-"Abdelkrim al-Khattabi"
-],
-"answer": 3
-},
-{
-"id": "mh25",
-"category": "Moroccan History",
-"difficulty": "HARD",
-"question": "In which year was the Moroccan Independence Manifesto presented?",
-"options": [
-"1934",
-"1944",
-"1947",
-"1953"
-],
-"answer": 1
-},
-{
-"id": "gk11",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who formulated the three laws of planetary motion?",
-"options": [
-"Isaac Newton",
-"Galileo Galilei",
-"Tycho Brahe",
-"Johannes Kepler"
-],
-"answer": 3
-},
-{
-"id": "gk12",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Approximately what is the Chandrasekhar limit?",
-"options": [
-"1.4 solar masses",
-"3 solar masses",
-"0.5 solar masses",
-"8 solar masses"
-],
-"answer": 0
-},
-{
-"id": "gk13",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Which is the world's largest landlocked country by area?",
-"options": [
-"Niger",
-"Mongolia",
-"Kazakhstan",
-"Chad"
-],
-"answer": 2
-},
-{
-"id": "gk14",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who invented the World Wide Web in 1989?",
-"options": [
-"Vint Cerf",
-"Marc Andreessen",
-"Tim Berners-Lee",
-"Bill Gates"
-],
-"answer": 2
-},
-{
-"id": "gk15",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Which treaty, signed in 1992, created the European Union?",
-"options": [
-"Rome",
-"Lisbon",
-"Maastricht",
-"Schengen"
-],
-"answer": 2
-},
-{
-"id": "gk16",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "What is the sum of the interior angles of a hexagon?",
-"options": [
-"540°",
-"1080°",
-"720°",
-"900°"
-],
-"answer": 2
-},
-{
-"id": "gk17",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Which particle was announced as discovered at CERN in 2012?",
-"options": [
-"Higgs boson",
-"Tau neutrino",
-"Top quark",
-"Graviton"
-],
-"answer": 0
-},
-{
-"id": "gk18",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Which letter does not appear in the name of any US state?",
-"options": [
-"Z",
-"X",
-"J",
-"Q"
-],
-"answer": 3
-},
-{
-"id": "gk19",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who proposed the heliocentric model in 'De revolutionibus' (1543)?",
-"options": [
-"Nicolaus Copernicus",
-"Johannes Kepler",
-"Galileo Galilei",
-"Ptolemy"
-],
-"answer": 0
-},
-{
-"id": "gk20",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "How many bones does an adult human body typically have?",
-"options": [
-"206",
-"212",
-"226",
-"196"
-],
-"answer": 0
-},
-{
-"id": "gk21",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Which is the smallest ocean by area?",
-"options": [
-"Arctic Ocean",
-"Indian Ocean",
-"Southern Ocean",
-"Atlantic Ocean"
-],
-"answer": 0
-},
-{
-"id": "gk22",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Which Roman emperor established the Tetrarchy in 293 AD?",
-"options": [
-"Trajan",
-"Augustus",
-"Diocletian",
-"Constantine"
-],
-"answer": 2
-},
-{
-"id": "gk23",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who discovered the electron in 1897?",
-"options": [
-"James Chadwick",
-"Niels Bohr",
-"J. J. Thomson",
-"Ernest Rutherford"
-],
-"answer": 2
-},
-{
-"id": "gk24",
-"category": "General Knowledge",
-"difficulty": "VERY HARD",
-"question": "Approximately how fast does light travel in a vacuum?",
-"options": [
-"350,000 km/s",
-"1,080,000 km/s",
-"299,792 km/s",
-"150,000 km/s"
-],
-"answer": 2
-},
-{
-"id": "gk25",
-"category": "General Knowledge",
-"difficulty": "HARD",
-"question": "Who developed the first successful polio vaccine, announced in 1955?",
-"options": [
-"Jonas Salk",
-"Alexander Fleming",
-"Louis Pasteur",
-"Albert Sabin"
-],
-"answer": 0
-},
-{
-"id": "sp11",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Who is the all-time top scorer in men's World Cup history?",
-"options": [
-"Gerd Müller",
-"Ronaldo Nazário",
-"Lionel Messi",
-"Miroslav Klose"
-],
-"answer": 3
-},
-{
-"id": "sp12",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Which team won the 2016 NBA Finals after trailing 3–1?",
-"options": [
-"Cleveland Cavaliers",
-"Golden State Warriors",
-"Oklahoma City Thunder",
-"San Antonio Spurs"
-],
-"answer": 0
-},
-{
-"id": "sp13",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Who won the 2023 Wimbledon men's singles title?",
-"options": [
-"Jannik Sinner",
-"Carlos Alcaraz",
-"Daniil Medvedev",
-"Novak Djokovic"
-],
-"answer": 1
-},
-{
-"id": "sp14",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "In which year were the first modern Olympic Games held?",
-"options": [
-"1896",
-"1900",
-"1904",
-"1912"
-],
-"answer": 0
-},
-{
-"id": "sp15",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Who is the only player to have won three men's World Cups?",
-"options": [
-"Pelé",
-"Cafu",
-"Diego Maradona",
-"Franz Beckenbauer"
-],
-"answer": 0
-},
-{
-"id": "sp16",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which nation won the first Rugby World Cup in 1987?",
-"options": [
-"South Africa",
-"France",
-"Australia",
-"New Zealand"
-],
-"answer": 3
-},
-{
-"id": "sp17",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "What is the men's 100 m world record time set by Usain Bolt in 2009?",
-"options": [
-"9.63 s",
-"9.69 s",
-"9.72 s",
-"9.58 s"
-],
-"answer": 3
-},
-{
-"id": "sp18",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Who has won the most men's French Open singles titles?",
-"options": [
-"Novak Djokovic",
-"Rafael Nadal",
-"Roger Federer",
-"Björn Borg"
-],
-"answer": 1
-},
-{
-"id": "sp19",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which NBA franchise has won the most championships?",
-"options": [
-"Chicago Bulls",
-"Golden State Warriors",
-"Los Angeles Lakers",
-"Boston Celtics"
-],
-"answer": 3
-},
-{
-"id": "sp20",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which country won the Africa Cup of Nations 2023 (held in January 2024)?",
-"options": [
-"Nigeria",
-"Senegal",
-"Egypt",
-"Ivory Coast"
-],
-"answer": 3
-},
-{
-"id": "sp21",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Who won the Golden Boot at the 2022 World Cup?",
-"options": [
-"Olivier Giroud",
-"Julián Álvarez",
-"Lionel Messi",
-"Kylian Mbappé"
-],
-"answer": 3
-},
-{
-"id": "sp22",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "How many Grand Slam singles titles did Serena Williams win?",
-"options": [
-"22",
-"21",
-"24",
-"23"
-],
-"answer": 3
-},
-{
-"id": "sp23",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which Moroccan goalkeeper saved two penalties in the 2022 World Cup shootout against Spain?",
-"options": [
-"Yassine Bounou",
-"Yahya Hamoudi",
-"Ahmed Reda Tagnaouti",
-"Munir El Kajoui"
-],
-"answer": 0
-},
-{
-"id": "sp24",
-"category": "Sports",
-"difficulty": "VERY HARD",
-"question": "Which city hosted the 1992 Summer Olympics?",
-"options": [
-"Barcelona",
-"Seoul",
-"Athens",
-"Atlanta"
-],
-"answer": 0
-},
-{
-"id": "sp25",
-"category": "Sports",
-"difficulty": "HARD",
-"question": "Which country has won the most men's Cricket World Cups?",
-"options": [
-"India",
-"West Indies",
-"Australia",
-"England"
-],
-"answer": 2
-}
+{"id":"ag01","category":"Anime & Gaming","difficulty":"EASY","question":"Who is the main character of 'Naruto'?","options":["Sasuke Uchiha","Kakashi Hatake","Naruto Uzumaki","Itachi Uchiha"],"answer":2},
+{"id":"ag02","category":"Anime & Gaming","difficulty":"EASY","question":"Which company created Mario?","options":["Sega","Nintendo","Sony","Atari"],"answer":1},
+{"id":"ag03","category":"Anime & Gaming","difficulty":"EASY","question":"What type is Pikachu?","options":["Fire","Water","Grass","Electric"],"answer":3},
+{"id":"ag04","category":"Anime & Gaming","difficulty":"EASY","question":"What is Goku's race in 'Dragon Ball'?","options":["Saiyan","Namekian","Human","Majin"],"answer":0},
+{"id":"ag05","category":"Anime & Gaming","difficulty":"EASY","question":"Who is the pirate captain protagonist of 'One Piece'?","options":["Roronoa Zoro","Sanji","Monkey D. Luffy","Usopp"],"answer":2},
+{"id":"ag06","category":"Anime & Gaming","difficulty":"EASY","question":"Which studio made 'Spirited Away'?","options":["Toei Animation","Studio Ghibli","Bones","Madhouse"],"answer":1},
+{"id":"ag07","category":"Anime & Gaming","difficulty":"EASY","question":"Which game lets players mine, build and craft in a world made of blocks?","options":["Tetris","Fortnite","Minecraft","Among Us"],"answer":2},
+{"id":"ag08","category":"Anime & Gaming","difficulty":"EASY","question":"Which Shinigami drops the Death Note into the human world?","options":["Rem","Gelus","Sidoh","Ryuk"],"answer":3},
+{"id":"ag09","category":"Anime & Gaming","difficulty":"EASY","question":"Who is the main hero of 'The Legend of Zelda'?","options":["Zelda","Link","Ganon","Epona"],"answer":1},
+{"id":"ag10","category":"Anime & Gaming","difficulty":"EASY","question":"Which two-tailed fox is Sonic's best friend?","options":["Knuckles","Tails","Shadow","Amy Rose"],"answer":1},
+{"id":"ag11","category":"Anime & Gaming","difficulty":"EASY","question":"What are the giant humanoid creatures in 'Attack on Titan' called?","options":["Giants","Colossi","Titans","Ogres"],"answer":2},
+{"id":"ag12","category":"Anime & Gaming","difficulty":"EASY","question":"Which Pokémon becomes Ash's main partner in the anime?","options":["Charmander","Bulbasaur","Squirtle","Pikachu"],"answer":3},
+{"id":"ag13","category":"Anime & Gaming","difficulty":"EASY","question":"What is the name of Mario's younger brother?","options":["Wario","Luigi","Toad","Yoshi"],"answer":1},
+{"id":"ag14","category":"Anime & Gaming","difficulty":"EASY","question":"What is the name of Tanjiro Kamado's younger sister?","options":["Shinobu","Mitsuri","Nezuko","Kanao"],"answer":2},
+{"id":"ag15","category":"Anime & Gaming","difficulty":"EASY","question":"Which game series stars the soldier Master Chief?","options":["Gears of War","Call of Duty","Halo","Doom"],"answer":2},
+{"id":"ag16","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which studio animated the first three seasons of 'Attack on Titan'?","options":["MAPPA","Wit Studio","Bones","Madhouse"],"answer":1},
+{"id":"ag17","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which company developed 'Chrono Trigger'?","options":["Enix","Capcom","Konami","Square"],"answer":3},
+{"id":"ag18","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which anime features the 'Nen' energy system?","options":["YuYu Hakusho","Bleach","Hunter x Hunter","One Piece"],"answer":2},
+{"id":"ag19","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which studio animated 'Demon Slayer: Kimetsu no Yaiba'?","options":["ufotable","MAPPA","Kyoto Animation","Trigger"],"answer":0},
+{"id":"ag20","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which anime film won the Academy Award for Best Animated Feature in 2003?","options":["Howl's Moving Castle","Princess Mononoke","Your Name","Spirited Away"],"answer":3},
+{"id":"ag21","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Who created the 'Metal Gear' series?","options":["Shinji Mikami","Hideo Kojima","Yu Suzuki","Tetsuya Nomura"],"answer":1},
+{"id":"ag22","category":"Anime & Gaming","difficulty":"MEDIUM","question":"What is the name of Jotaro Kujo's Stand in 'Stardust Crusaders'?","options":["The World","Star Platinum","Crazy Diamond","Gold Experience"],"answer":1},
+{"id":"ag23","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Who is the First Hokage in 'Naruto'?","options":["Tobirama Senju","Hiruzen Sarutobi","Hashirama Senju","Minato Namikaze"],"answer":2},
+{"id":"ag24","category":"Anime & Gaming","difficulty":"MEDIUM","question":"What was Pac-Man's original Japanese name?","options":["Munch-Man","Pak-Man","Puck-Man","Dot-Man"],"answer":2},
+{"id":"ag25","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Who directed the original 'Dark Souls' (2011)?","options":["Hideo Kojima","Hidetaka Miyazaki","Tomonobu Itagaki","Keiji Inafune"],"answer":1},
+{"id":"ag26","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which principle governs alchemy in 'Fullmetal Alchemist'?","options":["Law of Conservation","Equivalent Exchange","Alchemic Balance","Philosopher's Law"],"answer":1},
+{"id":"ag27","category":"Anime & Gaming","difficulty":"MEDIUM","question":"In what year was 'Super Mario Bros.' released in Japan?","options":["1983","1987","1985","1990"],"answer":2},
+{"id":"ag28","category":"Anime & Gaming","difficulty":"MEDIUM","question":"What food is the detective L famous for loving in 'Death Note'?","options":["Ramen","Sushi","Curry","Sweets and cakes"],"answer":3},
+{"id":"ag29","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Cloud Strife is the protagonist of which game?","options":["Chrono Trigger","Kingdom Hearts II","Final Fantasy VII","Xenogears"],"answer":2},
+{"id":"ag30","category":"Anime & Gaming","difficulty":"MEDIUM","question":"Which 'Jujutsu Kaisen' character is known as the strongest sorcerer?","options":["Yuji Itadori","Megumi Fushiguro","Ryomen Sukuna","Satoru Gojo"],"answer":3},
+{"id":"ag31","category":"Anime & Gaming","difficulty":"HARD","question":"In what year was the Famicom released in Japan?","options":["1981","1985","1983","1987"],"answer":2},
+{"id":"ag32","category":"Anime & Gaming","difficulty":"VERY HARD","question":"Who composed the music of the original 'The Legend of Zelda' (1986)?","options":["Nobuo Uematsu","Yasunori Mitsuda","Hip Tanaka","Koji Kondo"],"answer":3},
+{"id":"ag33","category":"Anime & Gaming","difficulty":"VERY HARD","question":"What is the vast cavern beneath Tokyo-3 that houses NERV headquarters in 'Evangelion'?","options":["The Dark Zone","The Abyss","The Geofront","The Terminal Pit"],"answer":2},
+{"id":"ag34","category":"Anime & Gaming","difficulty":"HARD","question":"Who directed the 1988 film 'Akira'?","options":["Hayao Miyazaki","Katsuhiro Otomo","Mamoru Oshii","Satoshi Kon"],"answer":1},
+{"id":"ag35","category":"Anime & Gaming","difficulty":"VERY HARD","question":"The Konami Code debuted in the home port of which 1986 game?","options":["Contra","Castlevania","Gradius","Metal Gear"],"answer":2},
+{"id":"ag36","category":"Anime & Gaming","difficulty":"VERY HARD","question":"Which pair of games launched Pokémon in Japan in 1996?","options":["Red and Blue","Yellow","Gold and Silver","Red and Green"],"answer":3},
+{"id":"ag37","category":"Anime & Gaming","difficulty":"VERY HARD","question":"What was the first film produced by Studio Ghibli after its founding?","options":["Nausicaä of the Valley of the Wind","My Neighbor Totoro","Grave of the Fireflies","Castle in the Sky"],"answer":3},
+{"id":"ag38","category":"Anime & Gaming","difficulty":"HARD","question":"Who wrote the manga 'Berserk'?","options":["Naoki Urasawa","Kentaro Miura","Tite Kubo","Yoshihiro Togashi"],"answer":1},
+{"id":"ag39","category":"Anime & Gaming","difficulty":"HARD","question":"Who composed the soundtrack of 'Cowboy Bebop'?","options":["Joe Hisaishi","Hiroyuki Sawano","Yoko Kanno","Kenji Kawai"],"answer":2},
+{"id":"ag40","category":"Anime & Gaming","difficulty":"HARD","question":"Which was Sega's last home video game console?","options":["Dreamcast","Saturn","Genesis","Master System"],"answer":0},
+{"id":"ag41","category":"Anime & Gaming","difficulty":"HARD","question":"What is Okabe Rintaro's self-proclaimed alias in 'Steins;Gate'?","options":["Kyoma Tenma","Hououin Kyouma","Rintaro the Great","Zero Okabe"],"answer":1},
+{"id":"ag42","category":"Anime & Gaming","difficulty":"HARD","question":"In what year was the original PlayStation released in Japan?","options":["1992","1996","1994","1998"],"answer":2},
+{"id":"ag43","category":"Anime & Gaming","difficulty":"HARD","question":"Which manga holds the Guinness record for best-selling comic series by a single author?","options":["Dragon Ball","Naruto","Detective Conan","One Piece"],"answer":3},
+{"id":"ag44","category":"Anime & Gaming","difficulty":"HARD","question":"In what year did Alexey Pajitnov create 'Tetris'?","options":["1984","1980","1988","1991"],"answer":0},
+{"id":"ag45","category":"Anime & Gaming","difficulty":"VERY HARD","question":"Which programmer created the original 'Sonic the Hedgehog' engine at Sonic Team?","options":["Hiroshi Yamauchi","Satoru Iwata","Yuji Naka","Gunpei Yokoi"],"answer":2},
+{"id":"ag46","category":"Anime & Gaming","difficulty":"VERY HARD","question":"Which Pokémon games introduced the Fairy type?","options":["Pokémon Black and White","Pokémon X and Y","Pokémon Sun and Moon","Pokémon Omega Ruby"],"answer":1},
+{"id":"ag47","category":"Anime & Gaming","difficulty":"VERY HARD","question":"Which Nintendo president passed away in 2015?","options":["Hiroshi Yamauchi","Tatsumi Kimishima","Gunpei Yokoi","Satoru Iwata"],"answer":3},
+{"id":"ag48","category":"Anime & Gaming","difficulty":"HARD","question":"Who directed the 1997 film 'Perfect Blue'?","options":["Satoshi Kon","Katsuhiro Otomo","Mamoru Oshii","Shinichiro Watanabe"],"answer":0},
+{"id":"ag49","category":"Anime & Gaming","difficulty":"HARD","question":"Which Studio Ghibli film is based on a novel by Diana Wynne Jones?","options":["Kiki's Delivery Service","Howl's Moving Castle","Ponyo","Arrietty"],"answer":1},
+{"id":"ag50","category":"Anime & Gaming","difficulty":"HARD","question":"Who created the manga 'Hunter x Hunter'?","options":["Eiichiro Oda","Masashi Kishimoto","Hirohiko Araki","Yoshihiro Togashi"],"answer":3},
+{"id":"mh01","category":"Moroccan History","difficulty":"EASY","question":"What is the capital of Morocco?","options":["Casablanca","Rabat","Marrakech","Fez"],"answer":1},
+{"id":"mh02","category":"Moroccan History","difficulty":"EASY","question":"Which dynasty has ruled Morocco since the 17th century?","options":["Almohad","Saadian","Alaouite","Marinid"],"answer":2},
+{"id":"mh03","category":"Moroccan History","difficulty":"EASY","question":"Which Moroccan city is known as the 'Red City'?","options":["Marrakech","Fez","Chefchaouen","Tangier"],"answer":0},
+{"id":"mh04","category":"Moroccan History","difficulty":"EASY","question":"In which year did Morocco regain independence from France?","options":["1945","1956","1961","1971"],"answer":1},
+{"id":"mh05","category":"Moroccan History","difficulty":"EASY","question":"Which Moroccan city is famous for its blue-painted streets?","options":["Essaouira","Meknes","Agadir","Chefchaouen"],"answer":3},
+{"id":"mh06","category":"Moroccan History","difficulty":"EASY","question":"Which ocean borders Morocco to the west?","options":["Indian Ocean","Pacific Ocean","Atlantic Ocean","Arctic Ocean"],"answer":2},
+{"id":"mh07","category":"Moroccan History","difficulty":"EASY","question":"In which city was the traveler Ibn Battuta born in 1304?","options":["Fez","Marrakech","Tangier","Salé"],"answer":2},
+{"id":"mh08","category":"Moroccan History","difficulty":"EASY","question":"In which year did the Green March take place?","options":["1971","1973","1975","1979"],"answer":2},
+{"id":"mh09","category":"Moroccan History","difficulty":"EASY","question":"Which mountain range runs through central Morocco?","options":["Alps","Atlas","Andes","Pyrenees"],"answer":1},
+{"id":"mh10","category":"Moroccan History","difficulty":"EASY","question":"What is the largest city in Morocco?","options":["Casablanca","Rabat","Fez","Tangier"],"answer":0},
+{"id":"mh11","category":"Moroccan History","difficulty":"EASY","question":"Which sea borders Morocco to the north?","options":["Red Sea","Black Sea","Mediterranean Sea","Caspian Sea"],"answer":2},
+{"id":"mh12","category":"Moroccan History","difficulty":"EASY","question":"In which city is the University of al-Qarawiyyin located?","options":["Marrakech","Rabat","Meknes","Fez"],"answer":3},
+{"id":"mh13","category":"Moroccan History","difficulty":"EASY","question":"Which strait separates Morocco from Spain?","options":["Strait of Hormuz","Strait of Gibraltar","Bosphorus","Strait of Malacca"],"answer":1},
+{"id":"mh14","category":"Moroccan History","difficulty":"EASY","question":"Which sultan, later king, led Morocco to independence in 1956?","options":["Hassan II","Moulay Ismail","Mohammed V","Mohammed VI"],"answer":2},
+{"id":"mh15","category":"Moroccan History","difficulty":"EASY","question":"Which king launched the Green March in 1975?","options":["Hassan II","Mohammed V","Mohammed VI","Moulay Ismail"],"answer":0},
+{"id":"mh16","category":"Moroccan History","difficulty":"MEDIUM","question":"Who founded the University of al-Qarawiyyin in Fez in 859?","options":["Zaynab an-Nafzawiyya","Idris II","Ibn Khaldun","Fatima al-Fihri"],"answer":3},
+{"id":"mh17","category":"Moroccan History","difficulty":"MEDIUM","question":"Which Alaouite sultan (r. 1672–1727) made Meknes his capital?","options":["Mohammed ben Abdallah","Moulay Ismail","Hassan I","Moulay Rachid"],"answer":1},
+{"id":"mh18","category":"Moroccan History","difficulty":"MEDIUM","question":"In which year was the Treaty of Fez signed, establishing the French protectorate?","options":["1906","1920","1912","1930"],"answer":2},
+{"id":"mh19","category":"Moroccan History","difficulty":"MEDIUM","question":"Who founded the Almohad movement?","options":["Abd al-Mu'min","Ibn Tumart","Ya'qub al-Mansur","Abu Yusuf Ya'qub"],"answer":1},
+{"id":"mh20","category":"Moroccan History","difficulty":"MEDIUM","question":"Who founded the Idrisid dynasty in Morocco?","options":["Yusuf ibn Tashfin","Abd al-Mu'min","Abu al-Hasan","Idris I"],"answer":3},
+{"id":"mh21","category":"Moroccan History","difficulty":"MEDIUM","question":"Morocco fought which country at the Battle of Isly in 1844?","options":["Spain","Portugal","France","Britain"],"answer":2},
+{"id":"mh22","category":"Moroccan History","difficulty":"MEDIUM","question":"Which dynasty built the Bou Inania Madrasa in Fez?","options":["Marinids","Saadians","Wattasids","Idrisids"],"answer":0},
+{"id":"mh23","category":"Moroccan History","difficulty":"MEDIUM","question":"Which city was the capital of the Saadian dynasty?","options":["Fez","Meknes","Marrakech","Rabat"],"answer":2},
+{"id":"mh24","category":"Moroccan History","difficulty":"MEDIUM","question":"Which sultan was exiled to Madagascar in 1953?","options":["Hassan II","Moulay Youssef","Moulay Hafid","Mohammed V"],"answer":3},
+{"id":"mh25","category":"Moroccan History","difficulty":"MEDIUM","question":"In which year was the Moroccan Independence Manifesto presented?","options":["1934","1944","1947","1953"],"answer":1},
+{"id":"mh26","category":"Moroccan History","difficulty":"MEDIUM","question":"Who led the Republic of the Rif in the 1920s?","options":["Allal al-Fassi","Ahmed Balafrej","Abdelkrim al-Khattabi","Mohammed Hassan Ouazzani"],"answer":2},
+{"id":"mh27","category":"Moroccan History","difficulty":"MEDIUM","question":"Which dynasty ruled Morocco before the Alaouites rose to power in the 17th century?","options":["Saadians","Marinids","Almohads","Idrisids"],"answer":0},
+{"id":"mh28","category":"Moroccan History","difficulty":"MEDIUM","question":"Which Moroccan port city was called Mazagan under Portuguese rule?","options":["Safi","Agadir","El Jadida","Asilah"],"answer":2},
+{"id":"mh29","category":"Moroccan History","difficulty":"MEDIUM","question":"Which two cities on Morocco's Mediterranean coast are administered by Spain?","options":["Tetouan and Nador","Ceuta and Melilla","Al Hoceima and Larache","Tangier and Asilah"],"answer":1},
+{"id":"mh30","category":"Moroccan History","difficulty":"MEDIUM","question":"Which two Allied leaders met at the Anfa Conference in Casablanca in 1943?","options":["Roosevelt and Churchill","Hitler and Mussolini","Stalin and Truman","De Gaulle and Eisenhower"],"answer":0},
+{"id":"mh31","category":"Moroccan History","difficulty":"VERY HARD","question":"At which 1086 battle did the Almoravids defeat Alfonso VI of Castile?","options":["Alarcos","Las Navas de Tolosa","Covadonga","Sagrajas (Zallaqa)"],"answer":3},
+{"id":"mh32","category":"Moroccan History","difficulty":"HARD","question":"Which 1212 battle was a decisive defeat for the Almohads?","options":["Alarcos","Ksar el-Kebir","Las Navas de Tolosa","Isly"],"answer":2},
+{"id":"mh33","category":"Moroccan History","difficulty":"VERY HARD","question":"Which Portuguese king died at the Battle of the Three Kings (1578)?","options":["Manuel I","John II","Afonso V","Sebastian"],"answer":3},
+{"id":"mh34","category":"Moroccan History","difficulty":"HARD","question":"The Battle of Annual (1921) took place during which conflict?","options":["The Rif War","The Ifni War","The Sand War","The Green March"],"answer":0},
+{"id":"mh35","category":"Moroccan History","difficulty":"HARD","question":"Which Almoravid ruler (r. 1061–1106) unified Morocco and conquered much of al-Andalus?","options":["Ali ibn Yusuf","Yusuf ibn Tashfin","Abdallah ibn Yasin","Ibrahim ibn Tashfin"],"answer":1},
+{"id":"mh36","category":"Moroccan History","difficulty":"HARD","question":"Which Almohad caliph commissioned the Hassan Tower in Rabat?","options":["Ibn Tumart","Abd al-Mu'min","Muhammad al-Nasir","Ya'qub al-Mansur"],"answer":3},
+{"id":"mh37","category":"Moroccan History","difficulty":"VERY HARD","question":"Which 1906 conference addressed rival European claims over Morocco?","options":["Berlin","Algeciras","Madrid","Vienna"],"answer":1},
+{"id":"mh38","category":"Moroccan History","difficulty":"VERY HARD","question":"Which sultan signed the Treaty of Fez in 1912?","options":["Abd al-Aziz","Moulay Youssef","Hassan I","Moulay Abd al-Hafid"],"answer":3},
+{"id":"mh39","category":"Moroccan History","difficulty":"HARD","question":"Which palace in Marrakech did Ahmad al-Mansur build after the Battle of the Three Kings?","options":["Bahia Palace","Dar el-Makhzen","El Badi Palace","Dar Batha"],"answer":2},
+{"id":"mh40","category":"Moroccan History","difficulty":"VERY HARD","question":"Which Moroccan sultan was among the first rulers to recognize American independence?","options":["Moulay Ismail","Moulay Sulayman","Hassan I","Mohammed ben Abdallah"],"answer":3},
+{"id":"mh41","category":"Moroccan History","difficulty":"HARD","question":"Which Saadian sultan, nicknamed 'al-Dhahabi', took power after the Battle of the Three Kings?","options":["Ahmad al-Mansur","Abd al-Malik","Mohammed al-Shaykh","Zidan al-Nasir"],"answer":0},
+{"id":"mh42","category":"Moroccan History","difficulty":"HARD","question":"Which Alaouite sultan ruled from 1873 to 1894?","options":["Abd al-Aziz","Moulay Sulayman","Hassan I","Mohammed IV"],"answer":2},
+{"id":"mh43","category":"Moroccan History","difficulty":"HARD","question":"Which historian, author of the Muqaddimah, served at the Marinid court in Fez?","options":["Ibn Rushd","Ibn Khaldun","Ibn Battuta","al-Idrisi"],"answer":1},
+{"id":"mh44","category":"Moroccan History","difficulty":"VERY HARD","question":"Which geographer, born in Ceuta, made a famed world map for Roger II of Sicily?","options":["Ibn Jubayr","Ibn Hawqal","al-Idrisi","al-Bakri"],"answer":2},
+{"id":"mh45","category":"Moroccan History","difficulty":"VERY HARD","question":"Which Saadian sultan died of illness during the Battle of the Three Kings?","options":["Ahmad al-Mansur","Zidan al-Nasir","Mohammed al-Mutawakkil","Abd al-Malik"],"answer":3},
+{"id":"mh46","category":"Moroccan History","difficulty":"HARD","question":"Which dynasty succeeded the Marinids as rulers in Fez?","options":["Saadians","Wattasids","Almohads","Alaouites"],"answer":1},
+{"id":"mh47","category":"Moroccan History","difficulty":"VERY HARD","question":"Which Amazigh confederation did the Almoravids emerge from?","options":["Zenata","Masmuda","Ghomara","Sanhaja"],"answer":3},
+{"id":"mh48","category":"Moroccan History","difficulty":"HARD","question":"Which Almohad caliph conquered Marrakech in 1147?","options":["Ibn Tumart","Abd al-Mu'min","Ya'qub al-Mansur","Abu Hafs Umar"],"answer":1},
+{"id":"mh49","category":"Moroccan History","difficulty":"HARD","question":"In 1963, Morocco fought the Sand War against which country?","options":["Algeria","Mauritania","Libya","Spain"],"answer":0},
+{"id":"mh50","category":"Moroccan History","difficulty":"HARD","question":"Which Alaouite sultan supported Emir Abdelkader against the French in the 1840s?","options":["Moulay Sulayman","Hassan I","Abd al-Rahman","Mohammed IV"],"answer":2},
+{"id":"gk01","category":"General Knowledge","difficulty":"EASY","question":"What is the chemical formula of water?","options":["CO2","O2","H2O","NaCl"],"answer":2},
+{"id":"gk02","category":"General Knowledge","difficulty":"EASY","question":"Which is the largest planet in our solar system?","options":["Jupiter","Saturn","Neptune","Earth"],"answer":0},
+{"id":"gk03","category":"General Knowledge","difficulty":"EASY","question":"What is the capital of Japan?","options":["Seoul","Beijing","Tokyo","Bangkok"],"answer":2},
+{"id":"gk04","category":"General Knowledge","difficulty":"EASY","question":"How many continents are there?","options":["5","6","8","7"],"answer":3},
+{"id":"gk05","category":"General Knowledge","difficulty":"EASY","question":"Who painted the Mona Lisa?","options":["Michelangelo","Leonardo da Vinci","Raphael","Vincent van Gogh"],"answer":1},
+{"id":"gk06","category":"General Knowledge","difficulty":"EASY","question":"Which planet is known as the Red Planet?","options":["Venus","Mars","Mercury","Saturn"],"answer":1},
+{"id":"gk07","category":"General Knowledge","difficulty":"EASY","question":"Which gas do plants absorb from the air for photosynthesis?","options":["Oxygen","Nitrogen","Carbon dioxide","Hydrogen"],"answer":2},
+{"id":"gk08","category":"General Knowledge","difficulty":"EASY","question":"Which is the largest ocean on Earth?","options":["Atlantic","Indian","Arctic","Pacific"],"answer":3},
+{"id":"gk09","category":"General Knowledge","difficulty":"EASY","question":"How many days are there in a leap year?","options":["364","365","366","367"],"answer":2},
+{"id":"gk10","category":"General Knowledge","difficulty":"EASY","question":"Which is the largest mammal on Earth?","options":["African elephant","Blue whale","Giraffe","Hippopotamus"],"answer":1},
+{"id":"gk11","category":"General Knowledge","difficulty":"EASY","question":"At sea level, what is the boiling point of water in degrees Celsius?","options":["90","100","110","120"],"answer":1},
+{"id":"gk12","category":"General Knowledge","difficulty":"EASY","question":"Which is the largest country by area?","options":["Canada","China","Russia","United States"],"answer":2},
+{"id":"gk13","category":"General Knowledge","difficulty":"EASY","question":"Who wrote 'Romeo and Juliet'?","options":["Charles Dickens","William Shakespeare","Jane Austen","Mark Twain"],"answer":1},
+{"id":"gk14","category":"General Knowledge","difficulty":"EASY","question":"Which organ pumps blood around the human body?","options":["Liver","Lungs","Kidneys","Heart"],"answer":3},
+{"id":"gk15","category":"General Knowledge","difficulty":"EASY","question":"What does 'WWW' stand for?","options":["World Wide Web","World Web Window","Wide World Web","Web World Wire"],"answer":0},
+{"id":"gk16","category":"General Knowledge","difficulty":"MEDIUM","question":"What is the longest river in Europe?","options":["Danube","Volga","Rhine","Dnieper"],"answer":1},
+{"id":"gk17","category":"General Knowledge","difficulty":"MEDIUM","question":"Which is the smallest ocean by area?","options":["Arctic Ocean","Southern Ocean","Indian Ocean","Atlantic Ocean"],"answer":0},
+{"id":"gk18","category":"General Knowledge","difficulty":"MEDIUM","question":"How many bones does an adult human body typically have?","options":["196","212","206","226"],"answer":2},
+{"id":"gk19","category":"General Knowledge","difficulty":"MEDIUM","question":"What is the sum of the interior angles of a hexagon?","options":["720°","540°","900°","1080°"],"answer":0},
+{"id":"gk20","category":"General Knowledge","difficulty":"MEDIUM","question":"Who proposed the heliocentric model in 'De revolutionibus' (1543)?","options":["Galileo Galilei","Johannes Kepler","Ptolemy","Nicolaus Copernicus"],"answer":3},
+{"id":"gk21","category":"General Knowledge","difficulty":"MEDIUM","question":"Who invented the World Wide Web in 1989?","options":["Vint Cerf","Bill Gates","Tim Berners-Lee","Marc Andreessen"],"answer":2},
+{"id":"gk22","category":"General Knowledge","difficulty":"MEDIUM","question":"Approximately how fast does light travel in a vacuum?","options":["150,000 km/s","299,792 km/s","350,000 km/s","1,080,000 km/s"],"answer":1},
+{"id":"gk23","category":"General Knowledge","difficulty":"MEDIUM","question":"Which moon of Saturn has a thick nitrogen-rich atmosphere?","options":["Enceladus","Rhea","Mimas","Titan"],"answer":3},
+{"id":"gk24","category":"General Knowledge","difficulty":"MEDIUM","question":"What is the SI unit of magnetic flux density?","options":["Weber","Henry","Tesla","Farad"],"answer":2},
+{"id":"gk25","category":"General Knowledge","difficulty":"MEDIUM","question":"In networking, what does 'TCP' stand for?","options":["Transfer Control Process","Terminal Connection Protocol","Transmission Control Protocol","Transport Channel Package"],"answer":2},
+{"id":"gk26","category":"General Knowledge","difficulty":"MEDIUM","question":"Who formulated the three laws of planetary motion?","options":["Galileo Galilei","Tycho Brahe","Isaac Newton","Johannes Kepler"],"answer":3},
+{"id":"gk27","category":"General Knowledge","difficulty":"MEDIUM","question":"Which treaty, signed in 1992, created the European Union?","options":["Maastricht","Rome","Lisbon","Schengen"],"answer":0},
+{"id":"gk28","category":"General Knowledge","difficulty":"MEDIUM","question":"Who developed the first successful polio vaccine, announced in 1955?","options":["Albert Sabin","Jonas Salk","Alexander Fleming","Louis Pasteur"],"answer":1},
+{"id":"gk29","category":"General Knowledge","difficulty":"MEDIUM","question":"The Peace of Westphalia (1648) ended which conflict?","options":["Hundred Years' War","Seven Years' War","Thirty Years' War","War of the Roses"],"answer":2},
+{"id":"gk30","category":"General Knowledge","difficulty":"MEDIUM","question":"Which letter does not appear in the name of any US state?","options":["X","Z","J","Q"],"answer":3},
+{"id":"gk31","category":"General Knowledge","difficulty":"HARD","question":"Which element has atomic number 74?","options":["Osmium","Tungsten","Platinum","Rhenium"],"answer":1},
+{"id":"gk32","category":"General Knowledge","difficulty":"VERY HARD","question":"Who proved Fermat's Last Theorem in 1994–95?","options":["Grigori Perelman","Terence Tao","John Nash","Andrew Wiles"],"answer":3},
+{"id":"gk33","category":"General Knowledge","difficulty":"HARD","question":"What is the smallest prime number greater than 90?","options":["91","93","97","99"],"answer":2},
+{"id":"gk34","category":"General Knowledge","difficulty":"HARD","question":"Who wrote 'The General Theory of Employment, Interest and Money' (1936)?","options":["Milton Friedman","Friedrich Hayek","Paul Samuelson","John Maynard Keynes"],"answer":3},
+{"id":"gk35","category":"General Knowledge","difficulty":"VERY HARD","question":"Which computer scientist developed the first compiler, the A-0 system, in 1952?","options":["Ada Lovelace","Grace Hopper","Margaret Hamilton","Alan Turing"],"answer":1},
+{"id":"gk36","category":"General Knowledge","difficulty":"VERY HARD","question":"Approximately what is the Chandrasekhar limit?","options":["0.5 solar masses","3 solar masses","8 solar masses","1.4 solar masses"],"answer":3},
+{"id":"gk37","category":"General Knowledge","difficulty":"HARD","question":"Which is the world's largest landlocked country by area?","options":["Kazakhstan","Mongolia","Chad","Niger"],"answer":0},
+{"id":"gk38","category":"General Knowledge","difficulty":"HARD","question":"Which particle was announced as discovered at CERN in 2012?","options":["Top quark","Higgs boson","Tau neutrino","Graviton"],"answer":1},
+{"id":"gk39","category":"General Knowledge","difficulty":"HARD","question":"Which Roman emperor established the Tetrarchy in 293 AD?","options":["Constantine","Augustus","Diocletian","Trajan"],"answer":2},
+{"id":"gk40","category":"General Knowledge","difficulty":"HARD","question":"Who discovered the electron in 1897?","options":["Ernest Rutherford","Niels Bohr","James Chadwick","J. J. Thomson"],"answer":3},
+{"id":"gk41","category":"General Knowledge","difficulty":"VERY HARD","question":"Which mathematician proved the incompleteness theorems?","options":["David Hilbert","Kurt Gödel","Alan Turing","Georg Cantor"],"answer":1},
+{"id":"gk42","category":"General Knowledge","difficulty":"VERY HARD","question":"Which Greek scholar estimated the Earth's circumference around 240 BC?","options":["Pythagoras","Archimedes","Eratosthenes","Hipparchus"],"answer":2},
+{"id":"gk43","category":"General Knowledge","difficulty":"VERY HARD","question":"What is the approximate value of the Planck constant?","options":["6.626 × 10⁻³⁴ J·s","6.626 × 10⁻²⁴ J·s","1.602 × 10⁻¹⁹ J·s","9.109 × 10⁻³¹ J·s"],"answer":0},
+{"id":"gk44","category":"General Knowledge","difficulty":"VERY HARD","question":"Which country has the most islands in the world?","options":["Norway","Canada","Indonesia","Sweden"],"answer":3},
+{"id":"gk45","category":"General Knowledge","difficulty":"HARD","question":"Which 1494 treaty divided newly discovered lands between Spain and Portugal?","options":["Treaty of Tordesillas","Treaty of Utrecht","Treaty of Verdun","Treaty of Paris"],"answer":0},
+{"id":"gk46","category":"General Knowledge","difficulty":"HARD","question":"Which physicist formulated the uncertainty principle?","options":["Erwin Schrödinger","Werner Heisenberg","Paul Dirac","Wolfgang Pauli"],"answer":1},
+{"id":"gk47","category":"General Knowledge","difficulty":"HARD","question":"Who wrote 'The Road to Serfdom' (1944)?","options":["Ludwig von Mises","Milton Friedman","Friedrich Hayek","John Kenneth Galbraith"],"answer":2},
+{"id":"gk48","category":"General Knowledge","difficulty":"VERY HARD","question":"Which is the SI base unit of luminous intensity?","options":["Lumen","Lux","Mole","Candela"],"answer":3},
+{"id":"gk49","category":"General Knowledge","difficulty":"HARD","question":"Mansa Musa was the ruler of which empire?","options":["Songhai Empire","Mali Empire","Ghana Empire","Kanem Empire"],"answer":1},
+{"id":"gk50","category":"General Knowledge","difficulty":"HARD","question":"Who discovered the planet Uranus in 1781?","options":["Johann Galle","William Herschel","Percival Lowell","Edwin Hubble"],"answer":1},
+{"id":"sp01","category":"Sports","difficulty":"EASY","question":"How many players does a football team have on the pitch?","options":["9","10","11","12"],"answer":2},
+{"id":"sp02","category":"Sports","difficulty":"EASY","question":"Which sport is played at Wimbledon?","options":["Golf","Tennis","Cricket","Rugby"],"answer":1},
+{"id":"sp03","category":"Sports","difficulty":"EASY","question":"How many rings are on the Olympic flag?","options":["4","6","5","7"],"answer":2},
+{"id":"sp04","category":"Sports","difficulty":"EASY","question":"Which sport uses a shuttlecock?","options":["Badminton","Squash","Tennis","Table tennis"],"answer":0},
+{"id":"sp05","category":"Sports","difficulty":"EASY","question":"In basketball, how many points is a shot from beyond the three-point line worth?","options":["2","3","4","1"],"answer":1},
+{"id":"sp06","category":"Sports","difficulty":"EASY","question":"Which footballer is nicknamed 'La Pulga'?","options":["Neymar","Cristiano Ronaldo","Lionel Messi","Kylian Mbappé"],"answer":2},
+{"id":"sp07","category":"Sports","difficulty":"EASY","question":"Which country won the 2022 FIFA World Cup?","options":["France","Argentina","Croatia","Morocco"],"answer":1},
+{"id":"sp08","category":"Sports","difficulty":"EASY","question":"Michael Phelps is famous for which sport?","options":["Athletics","Gymnastics","Cycling","Swimming"],"answer":3},
+{"id":"sp09","category":"Sports","difficulty":"EASY","question":"Which card sends a football player off the pitch?","options":["Yellow","Green","Red","Blue"],"answer":2},
+{"id":"sp10","category":"Sports","difficulty":"EASY","question":"How long is a standard football match in regular time?","options":["80 minutes","90 minutes","100 minutes","120 minutes"],"answer":1},
+{"id":"sp11","category":"Sports","difficulty":"EASY","question":"In which sport would you perform a slam dunk?","options":["Volleyball","Basketball","Handball","Baseball"],"answer":1},
+{"id":"sp12","category":"Sports","difficulty":"EASY","question":"Which Portuguese star has won five Ballon d'Or awards?","options":["Luís Figo","Eusébio","Cristiano Ronaldo","Rui Costa"],"answer":2},
+{"id":"sp13","category":"Sports","difficulty":"EASY","question":"In which Olympic sport is a balance beam used?","options":["Gymnastics","Diving","Judo","Fencing"],"answer":0},
+{"id":"sp14","category":"Sports","difficulty":"EASY","question":"How many players per team are on court in basketball?","options":["4","5","6","7"],"answer":1},
+{"id":"sp15","category":"Sports","difficulty":"EASY","question":"Which country hosts the Tour de France?","options":["Italy","Spain","Belgium","France"],"answer":3},
+{"id":"sp16","category":"Sports","difficulty":"MEDIUM","question":"Which country won the first FIFA World Cup in 1930?","options":["Argentina","Uruguay","Brazil","Italy"],"answer":1},
+{"id":"sp17","category":"Sports","difficulty":"MEDIUM","question":"Who won the Ballon d'Or in 2018?","options":["Cristiano Ronaldo","Kylian Mbappé","Luka Modrić","Antoine Griezmann"],"answer":2},
+{"id":"sp18","category":"Sports","difficulty":"MEDIUM","question":"Which team won Euro 2004?","options":["Portugal","Czech Republic","Greece","Netherlands"],"answer":2},
+{"id":"sp19","category":"Sports","difficulty":"MEDIUM","question":"Which city hosted the 1992 Summer Olympics?","options":["Seoul","Atlanta","Athens","Barcelona"],"answer":3},
+{"id":"sp20","category":"Sports","difficulty":"MEDIUM","question":"Which country has won the most men's Cricket World Cups?","options":["Australia","India","West Indies","England"],"answer":0},
+{"id":"sp21","category":"Sports","difficulty":"MEDIUM","question":"In which year were the first modern Olympic Games held?","options":["1900","1904","1896","1912"],"answer":2},
+{"id":"sp22","category":"Sports","difficulty":"MEDIUM","question":"What is the men's 100 m world record time set by Usain Bolt in 2009?","options":["9.63 s","9.58 s","9.69 s","9.72 s"],"answer":1},
+{"id":"sp23","category":"Sports","difficulty":"MEDIUM","question":"Who has won the most men's French Open singles titles?","options":["Björn Borg","Novak Djokovic","Roger Federer","Rafael Nadal"],"answer":3},
+{"id":"sp24","category":"Sports","difficulty":"MEDIUM","question":"How many Grand Slam singles titles did Serena Williams win?","options":["21","22","24","23"],"answer":3},
+{"id":"sp25","category":"Sports","difficulty":"MEDIUM","question":"Which NBA franchise has won the most championships?","options":["Los Angeles Lakers","Boston Celtics","Chicago Bulls","Golden State Warriors"],"answer":1},
+{"id":"sp26","category":"Sports","difficulty":"MEDIUM","question":"Who won the Golden Boot at the 2022 World Cup?","options":["Lionel Messi","Olivier Giroud","Kylian Mbappé","Julián Álvarez"],"answer":2},
+{"id":"sp27","category":"Sports","difficulty":"MEDIUM","question":"Which African nation became the first to reach a men's World Cup semi-final, in 2022?","options":["Senegal","Ghana","Cameroon","Morocco"],"answer":3},
+{"id":"sp28","category":"Sports","difficulty":"MEDIUM","question":"Which country won the Africa Cup of Nations 2023 (held in January 2024)?","options":["Ivory Coast","Nigeria","Senegal","Egypt"],"answer":0},
+{"id":"sp29","category":"Sports","difficulty":"MEDIUM","question":"Who won the 2023 Wimbledon men's singles title?","options":["Novak Djokovic","Carlos Alcaraz","Daniil Medvedev","Jannik Sinner"],"answer":1},
+{"id":"sp30","category":"Sports","difficulty":"MEDIUM","question":"Which team won the 2016 NBA Finals after trailing 3–1?","options":["Golden State Warriors","San Antonio Spurs","Cleveland Cavaliers","Oklahoma City Thunder"],"answer":2},
+{"id":"sp31","category":"Sports","difficulty":"VERY HARD","question":"Which tennis player won the calendar-year Grand Slam in 1969?","options":["Björn Borg","Ken Rosewall","John Newcombe","Rod Laver"],"answer":3},
+{"id":"sp32","category":"Sports","difficulty":"HARD","question":"What is the exact length of a marathon?","options":["42.195 km","42.000 km","41.195 km","43.195 km"],"answer":0},
+{"id":"sp33","category":"Sports","difficulty":"VERY HARD","question":"Which player scored a record 13 goals at a single men's World Cup (1958)?","options":["Gerd Müller","Eusébio","Just Fontaine","Sándor Kocsis"],"answer":2},
+{"id":"sp34","category":"Sports","difficulty":"VERY HARD","question":"Who won both the 1500 m and 5000 m at the 2004 Athens Olympics?","options":["Saïd Aouita","Hicham El Guerrouj","Kenenisa Bekele","Bernard Lagat"],"answer":1},
+{"id":"sp35","category":"Sports","difficulty":"HARD","question":"Which NBA player scored 100 points in a single game in 1962?","options":["Bill Russell","Elgin Baylor","Oscar Robertson","Wilt Chamberlain"],"answer":3},
+{"id":"sp36","category":"Sports","difficulty":"HARD","question":"Which city hosted the 1936 Summer Olympics?","options":["Amsterdam","Los Angeles","Berlin","London"],"answer":2},
+{"id":"sp37","category":"Sports","difficulty":"VERY HARD","question":"Who is the all-time top scorer in men's World Cup history?","options":["Ronaldo Nazário","Miroslav Klose","Gerd Müller","Lionel Messi"],"answer":1},
+{"id":"sp38","category":"Sports","difficulty":"HARD","question":"Who is the only player to have won three men's World Cups?","options":["Diego Maradona","Cafu","Franz Beckenbauer","Pelé"],"answer":3},
+{"id":"sp39","category":"Sports","difficulty":"VERY HARD","question":"Which nation won the first Rugby World Cup in 1987?","options":["New Zealand","Australia","France","South Africa"],"answer":0},
+{"id":"sp40","category":"Sports","difficulty":"VERY HARD","question":"Which Moroccan goalkeeper saved two penalties in the 2022 World Cup shootout against Spain?","options":["Munir El Kajoui","Yassine Bounou","Ahmed Reda Tagnaouti","Mehdi Benabid"],"answer":1},
+{"id":"sp41","category":"Sports","difficulty":"VERY HARD","question":"Which team beat Brazil in the decisive 1950 World Cup match at the Maracanã?","options":["Spain","Sweden","Uruguay","Italy"],"answer":2},
+{"id":"sp42","category":"Sports","difficulty":"HARD","question":"Who won five consecutive Wimbledon men's singles titles from 1976 to 1980?","options":["John McEnroe","Jimmy Connors","Björn Borg","Ivan Lendl"],"answer":2},
+{"id":"sp43","category":"Sports","difficulty":"HARD","question":"Which city became the first to host the Summer Olympics three times?","options":["Paris","London","Los Angeles","Athens"],"answer":1},
+{"id":"sp44","category":"Sports","difficulty":"HARD","question":"Which athlete won four gold medals at the 1936 Berlin Olympics?","options":["Carl Lewis","Bob Beamon","Jesse Owens","Eddie Tolan"],"answer":2},
+{"id":"sp45","category":"Sports","difficulty":"HARD","question":"Who won the 2008 Formula 1 drivers' title by a single point?","options":["Felipe Massa","Kimi Räikkönen","Fernando Alonso","Lewis Hamilton"],"answer":3},
+{"id":"sp46","category":"Sports","difficulty":"HARD","question":"Which club has won the most European Cup / Champions League titles?","options":["AC Milan","Real Madrid","Bayern Munich","Liverpool"],"answer":1},
+{"id":"sp47","category":"Sports","difficulty":"HARD","question":"Who scored the winning goal in the 2010 World Cup final?","options":["Xavi","David Villa","Arjen Robben","Andrés Iniesta"],"answer":3},
+{"id":"sp48","category":"Sports","difficulty":"HARD","question":"Which nation won the first FIFA Women's World Cup in 1991?","options":["Norway","Germany","China","United States"],"answer":3},
+{"id":"sp49","category":"Sports","difficulty":"VERY HARD","question":"Who won the 400 m hurdles at the 1984 Olympics, becoming the first Muslim woman to win Olympic gold?","options":["Nezha Bidouane","Nawal El Moutawakel","Hasna Benhassi","Merlene Ottey"],"answer":1},
+{"id":"sp50","category":"Sports","difficulty":"HARD","question":"What is the maximum possible break in snooker (without a free ball)?","options":["155","140","147","167"],"answer":2}
 ]
